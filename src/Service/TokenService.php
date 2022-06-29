@@ -22,21 +22,21 @@ class TokenService implements TokenInterface
 
     public function has(string $token)
     {
-        // TODO: Implement has() method.
+        return '';
     }
 
     public function generator(array $value)
     {
-        // TODO: Implement generator() method.
+        return '';
     }
 
     public function set(string $token)
     {
-        // TODO: Implement set() method.
+        return '';
     }
 
     public function get(string $token)
     {
-        // TODO: Implement get() method.
+        return '';
     }
 }
