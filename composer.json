@@ -22,6 +22,8 @@
         "ext-json": "*",
         "ext-swoole": ">=4.5",
         "death_satan/hyperf-validate": "^1.0",
+        "hyperf/command": "^2.2",
+        "hyperf/di": "^2.2",
         "hyperf/framework": "~2.2.0"
     },
     "require-dev": {
