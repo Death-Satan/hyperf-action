@@ -50,6 +50,3 @@ jobs:
           vendor/bin/php-cs-fixer fix --dry-run
           composer analyse
           composer test
-      - name: Run phpunit
-        run: |
-          vendor/bin/phpunit
